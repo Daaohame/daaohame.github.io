@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Test of Site Title"
+title                    : "Haodong PErsonal Page"
 title_separator          : "-"
 name                     : &name "Haodong Wang"
 description              : &description "Graduate Student at the University of Chicago"
