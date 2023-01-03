@@ -5,9 +5,9 @@ excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html
----
-
-This is Dr. Test Account's home on the web!
+  - /abouthtml
+-[--
+] ()
+I'm a pre-doctoral master student at the University of Chicago, advised by Prof. [Junchen Jiang] (https://people.cs.uchicago.edu/~junchenj/).
 
 Lorem ipsum.
