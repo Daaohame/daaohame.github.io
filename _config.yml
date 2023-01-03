@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Haodong PErsonal Page"
+title                    : "Haodong (Charles) Wang"
 title_separator          : "-"
-name                     : &name "Haodong Wang"
+name                     : &name "Haodong (Charles) Wang"
 description              : &description "Graduate Student at the University of Chicago"
 url                      : https://daaohame.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
