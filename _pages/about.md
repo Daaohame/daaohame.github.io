@@ -8,6 +8,6 @@ redirect_from:
   - /abouthtml
 ---
 
-I'm a pre-doctoral master student at the University of Chicago, advised by Prof. [Junchen Jiang] (https://people.cs.uchicago.edu/~junchenj/).
+I'm a pre-doctoral master student at the University of Chicago, advised by Prof. [Junchen Jiang](https://people.cs.uchicago.edu/~junchenj/).
 
 Lorem ipsum.
