@@ -14,3 +14,7 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+- AccMPEG: Optimizing Video Encoding for Video Analytics<br />
+  Kuntai Du, Qizheng Zhang, Anton Arapin, **Haodong Wang**, Zhengxu Xia, Junchen Jiang<br />
+  *Conference on Machine Learning and Systems (MLSys), 2022* [[paper]](https://alex-q-z.github.io/files/accmpeg_mlsys22.pdf) [[code]](https://github.com/KuntaiDu/AccMPEG)
